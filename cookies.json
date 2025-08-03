@@ -1,7 +1,7 @@
 [
     {
         "domain": ".ivasms.com",
-        "expirationDate": 1761001935,
+        "expirationDate": 1762007792,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_fbp",
@@ -10,11 +10,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "fb.1.1752503653123.25406624052455439"
+        "value": "fb.1.1752494038903.545741698890723774"
     },
     {
         "domain": ".ivasms.com",
-        "expirationDate": 1753225972,
+        "expirationDate": 1754231852,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gat_gtag_UA_191466370_1",
@@ -26,20 +26,8 @@
         "value": "1"
     },
     {
-        "domain": "www.ivasms.com",
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "perf_dv6Tr4n",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": true,
-        "storeId": null,
-        "value": "1"
-    },
-    {
         "domain": ".ivasms.com",
-        "expirationDate": 1753312325,
+        "expirationDate": 1754318192,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_gid",
@@ -48,11 +36,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.2.1186547685.1753158402"
+        "value": "GA1.2.1909113379.1754231792"
     },
     {
         "domain": "www.ivasms.com",
-        "expirationDate": 1753233127.067401,
+        "expirationDate": 1754238986.913961,
         "hostOnly": true,
         "httpOnly": false,
         "name": "XSRF-TOKEN",
@@ -61,11 +49,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpdiI6IjFzTGt0UnVMZTRZZzJjUDJoVklyQXc9PSIsInZhbHVlIjoiUHk5MUpVV3NIelNUV0ZlbGZ2QkFlS1h2RGhuZmdtdWFtUnVrY0FDdWxYR1lkUUt0ZVU2NXJtUTZnaHhrdmpHNno3T2NTODVMWXAxOVlSVitsczBTTkJDSE16YW8wVVA3aEFyMlh2U2dQbkF6cm9VWDVDUThGQXR5L0oybllPWGsiLCJtYWMiOiI0NTE0NmRjMWNmNGZkMzk3ODdiNzZlMzFmZDdlYWYwNjA3M2VlZjZhODRlYTJlYjQ3MGM2ZDA5NTljMzUxOWQ1IiwidGFnIjoiIn0%3D"
+        "value": "eyJpdiI6InJ1c1Q5Ui9icm8rSkR6Wml6Rk5aWlE9PSIsInZhbHVlIjoiNHdsK1NFUDM1bGhvcXdFRWlxeEZidzIzU1pyU0lEZC9ielFlUG8rcVBqNEs1eTlWcFdBQW1PQmRCQUFvYWNNZDVaU2hkdXlPTGRMNThXbHZjSlZlalkrQVBqZERlVkdScStrUGNUWFRkZ0VaY0duYXFrTHQxdXlaVzdMS0dsdGgiLCJtYWMiOiI2OWRmNTI5OGYwNGZlOTE4ZTZkNDU2OGIwZWJhYjk5ODY0MDYzZjEzM2U0MzcxNzdlZjU0OTgwMDIyMGJmODI0IiwidGFnIjoiIn0%3D"
     },
     {
         "domain": ".ivasms.com",
-        "expirationDate": 1787785925.308517,
+        "expirationDate": 1788791792.337931,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_ga",
@@ -74,11 +62,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "GA1.2.609129700.1752503652"
+        "value": "GA1.2.396886795.1752494039"
     },
     {
         "domain": "www.ivasms.com",
-        "expirationDate": 1753233127.06799,
+        "expirationDate": 1754238986.914664,
         "hostOnly": true,
         "httpOnly": true,
         "name": "ivas_sms_session",
@@ -87,6 +75,6 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "eyJpdiI6ImdPS1ZRSkwwRDR6Ujk5ZUY2b21PQ0E9PSIsInZhbHVlIjoidEowVlM1Vy9KMlh5dzZIeUxkbm9LclV2bnF0ekZWYVd0eENEVmdWeGJIRzVtcWM0T05MaStZdEpVMFdyS0lobXNIYW1zRzByTXViRGtJOENTSjBlY1NjM1Yxck0vbEdlalhrR3M1bTNpUGUrNnJHUGlTWWhBVTlpaHJvUVlURTciLCJtYWMiOiJjN2JmNzRlZTUwMjA4YjM0MDVmNjQzMWQ5Mjc5OGIwMGRjNGQ0MjA1MTc0YTg1N2Y3NzI1OGM3MWM5NGI0OWY5IiwidGFnIjoiIn0%3D"
+        "value": "eyJpdiI6Im51aWJnSFcwemdBclJXUGR5dG9jVWc9PSIsInZhbHVlIjoiRjBuY0YreUlCRkpBeUZjcXp1RFJ0cy8wVkRmd01YVlZwWUhsek8rbUhSRUZjMTVWWTl1VHluWUFDZUtpb1BTQkF3TlV3VERPWVhWVVptNGVkNGNrQzJZemVaL3FpOUNSZU5DTm1ZeTJLczc1Y1YxcmJMYXd2amZDTmNuRlVlTHQiLCJtYWMiOiIzZjM4YmMzNDBkNGJhN2QzYmQzMzAwZDMwNDM4NGI3ZjE3ODYxZGY1YjM5YTdlOTViM2JjZWJmYjliNjI3OThkIiwidGFnIjoiIn0%3D"
     }
 ]
